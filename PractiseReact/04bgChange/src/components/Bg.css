@@ -1,0 +1,16 @@
+.header{
+    background-color: rgb(39, 90, 5);
+    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+}
+.headerRed{
+    background-color: #ee3e3e;
+    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+}
+.headerGreen{
+    background-color: #21f321;
+    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+}
+.headerDefault{
+    background-color: #242424;
+    /* position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; */
+}
